@@ -3,7 +3,7 @@
 ## Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Technical Aspect](#technical-aspect)
+  * [Technical Aspect](#technical-aspects)
   * [Result](#result)
   * [To Do](#to-do)
   * [File List](#file-list)
