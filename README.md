@@ -3,8 +3,8 @@
 ## Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Technical Aspect](#technical-aspects)
-  * [Result](#result)
+  * [Technical Aspects](#technical-aspects)
+  * [Results](#results)
   * [To Do](#to-do)
   * [File List](#file-list)
   * [Credits](#credits)
@@ -17,12 +17,12 @@ This is a simple data analysis project where I studied the statistics of the UK 
 ## Motivation <a name="motivation" />
 It was a good way to familiarize myself with data wrangling and data visualization in R.
 
-## Technical Aspect <a name="technical-aspects" />
+## Technical Aspects <a name="technical-aspects" />
 The main issues of this project were:
 1. Organizing raw data in a "tidy version"
 2. Finding interpretable charts to visualize results
 
-## Result <a name="result" />
+## Results <a name="results" />
 The main result, that you can also find in UL_Population_Study.ppt, are the following:
 1. Uk population is constantly growing (growth rate of 500k people/year in the last 5 years).
 2. The total population growth is mainly due to the growth of the British population.
