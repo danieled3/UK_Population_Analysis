@@ -26,18 +26,17 @@ The main issue of this project were:
 The main result, that you can also find in UL_Population_Study.ppt, are the following:
 1. Uk population is constantly growing (growth rate of 500k people/year in the last 5 years).
 2. The total population growth is mainly due to the growth of England population.
-![image](https://user-images.githubusercontent.com/29163695/121808797-7e1ec200-cc5a-11eb-94b7-36f82c999790.png)
+<img src="https://user-images.githubusercontent.com/29163695/121808797-7e1ec200-cc5a-11eb-94b7-36f82c999790.png" height="400" align="center">
 
 3. UK population is slowly leaving Scotland (it may have a lower bith rate or higher emigration rate)
 4. England population, on the contrary, is increasing 
-![image](https://user-images.githubusercontent.com/29163695/121808980-48c6a400-cc5b-11eb-84d2-c3e61877d58a.png)
+<img src="https://user-images.githubusercontent.com/29163695/121808980-48c6a400-cc5b-11eb-84d2-c3e61877d58a.png" height="400" align="center">
 
 5. Population is ageing because people older than 50 are strongly growing in recent years ( because of either high emigration of young people or low birth rate)
-![image](https://user-images.githubusercontent.com/29163695/121811058-66980700-cc63-11eb-8865-7fdad80f82db.png)
+<img src="https://user-images.githubusercontent.com/29163695/121811058-66980700-cc63-11eb-8865-7fdad80f82db.png" height="400" align="center">
 
 6. Wales has the largest percentage of over 50 year old people
-
-![image](https://user-images.githubusercontent.com/29163695/121809055-98a56b00-cc5b-11eb-8de1-b40b7269b79d.png)
+<img src="https://user-images.githubusercontent.com/29163695/121809055-98a56b00-cc5b-11eb-8de1-b40b7269b79d.png" height="400" align="center">
 
 ## To Do <a name="to-do" />
 * Integrate data with immigration/emigration rate and birth rate to understand the reason why population is increasing/decreasing
