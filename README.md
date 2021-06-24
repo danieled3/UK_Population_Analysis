@@ -23,7 +23,7 @@ The main issues of this project were:
 2. Finding interpretable charts to visualize results
 
 ## Results <a name="results" />
-The main result, that you can also find in UL_Population_Study.ppt, are the following:
+The main results, that you can also find in UK_Population_Study.ppt, are the following:
 1. Uk population is constantly growing (growth rate of 500k people/year in the last 5 years).
 2. The total population growth is mainly due to the growth of the British population.
 <img src="https://user-images.githubusercontent.com/29163695/121808797-7e1ec200-cc5a-11eb-94b7-36f82c999790.png" height="400" align="center">
